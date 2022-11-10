@@ -1,5 +1,5 @@
 ﻿## PR Checklist
-#### Please refer to the guidelines document https://github.com/GDSC-DONGA/GDSC-DAU-GitGuide/README.md.  
+#### Please refer to the guidelines document [https://github.com/GDSC-DONGA/GDSC-DAU-GitGuide/README.md](https://github.com/GDSC-DONGA/GDSC-DAU-GitGuide/blob/main/README.md).  
 #### If you agree, make [ ] below [x].
 
 - [ ] Checked the guideline document and follow the rules.
