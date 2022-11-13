@@ -35,7 +35,7 @@
 * 두 번째 [!] Android toolchain은 라이선스 동의가 필요하기 때문에  
   `flutter doctor --android-licenses` 명령어 입력
 
-![image-20221113143344397](..\images\2022-11-12-(flutter)Study_Week3\image-20221113143344397.png)
+<img src="..\images\2022-11-12-(flutter)Study_Week3\image-20221113143344397.png" alt="image-20221113143344397"  />
 
 
 
@@ -45,9 +45,7 @@
   * `settings -> sdk검색 -> Android SDK 접근`해서 찾아서 다운
     * 이후 다시 라이선스 명령어 입력시 잘 동작
   
-
-  ![image-20221113143838179](..\images\2022-11-12-(flutter)Study_Week3\image-20221113143838179.png)
-  
+<img src="..\images\2022-11-12-(flutter)Study_Week3\image-20221113143838179.png" alt="image-20221113143838179"  />
 
 
 
@@ -55,7 +53,7 @@
 
 * flutter 검색해서 설치
 
-  ![image-20221113152525108](..\images\2022-11-12-(flutter)Study_Week3\image-20221113152525108.png)
+  <img src="..\images\2022-11-12-(flutter)Study_Week3\image-20221113152525108.png" alt="image-20221113152525108"  />
 
 
 
@@ -79,13 +77,13 @@
 
 * 에러 발생
 
-  ![image-20221113153903773](..\images\2022-11-12-(flutter)Study_Week3\image-20221113153903773.png)
+  <img src="..\images\2022-11-12-(flutter)Study_Week3\image-20221113153903773.png" alt="image-20221113153903773"  />
 
   
 
   * 해결한 방법은 3번째 방법인 `org.gradle.java.home` 이 부분을 추가해서 해결하였습니다.
 
-    ![image-20221113162804432](..\images\2022-11-12-(flutter)Study_Week3\image-20221113162804432.png)
+    <img src="..\images\2022-11-12-(flutter)Study_Week3\image-20221113162804432.png" alt="image-20221113162804432"  />
 
 <br>
 
