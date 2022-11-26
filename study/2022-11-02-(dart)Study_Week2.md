@@ -148,3 +148,23 @@ class List {
 * **콜백함수** : 고차함수의 매개변수 인자에 들어가게되는 함수
 * **고차함수** : 매개변수에 콜백함수를 넣어서 직접 사용하는 함수
 
+
+
+**정말 간략하게만 소개**
+
+```dart
+int callFun(val, func) { // 고차함수
+  return func(10, val);
+}
+int add(a,b) { // 콜백함수
+  return a+b;
+}
+int sub(a,b) {
+  return a-b;
+}
+
+void main() {
+  print(callFun(20, add)); // 30
+  print(callFun(5, sub)); // 5
+}
+```
