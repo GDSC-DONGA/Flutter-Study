@@ -23,7 +23,7 @@
 
 ## Folder Structure
 
-* **[`/lib/main.dart`](/lib/main.dart)**
+* **[`/lib/main.dart`](./study/Study_Week5_Project/lib/main.dart)**
   * **위젯 구조 : `MaterialApp -> FirstRoute -> SecondRoute`**
     * `FirstRoute -> Scaffold -> SingleChildScrollView -> Column -> Card -> ListTile`
     * `SecondRoute -> Scaffold -> SingleChildScrollView -> Column -> Image,Text,Row`
