@@ -23,16 +23,16 @@
 
 ## Folder Structure
 
-* **[`/lib/main.dart`](./study/Study_Week5_Project/lib/main.dart)**
+* **[`./lib/main.dart`](./lib/main.dart)**
   * **위젯 구조 : `MaterialApp -> FirstRoute -> SecondRoute`**
     * `FirstRoute -> Scaffold -> SingleChildScrollView -> Column -> Card -> ListTile`
     * `SecondRoute -> Scaffold -> SingleChildScrollView -> Column -> Image,Text,Row`
 
-* **[`/assets/json/dataDummy.json`](/assets/json/dataDummy.json)**
+* **[`./assets/json/dataDummy.json`](./assets/json/dataDummy.json)**
   * `TMDB` 에서 가져온 데이터를 저장해두었다.
   * 실제론, 이 파일 사용하진 않고 미리 데이터를 **[`/main.dart`](/lib/main.dart)** 에 변수 선언 하였다.
 
-* **[`/pubspec.yaml`](/pubspec.yaml)**
+* **[`./pubspec.yaml`](./pubspec.yaml)**
   * `assets` 방식으로 파일 입출력을 통해서 json 파일을 가져오려고 했지만, 이방법은 사용하지 않게 되었다.
 
 
