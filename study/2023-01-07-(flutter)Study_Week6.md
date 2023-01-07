@@ -78,13 +78,15 @@ class _MyWidgetState extends State<MyWidget> {
 
 **보통 데이터 전달 구조**
 
-![image-20230107171751550](..\images\2023-01-07-(flutter)Study_Week6\image-20230107171751550.png)
+<img src="..\images\2023-01-07-(flutter)Study_Week6\image-20230107171751550.png" alt="image-20221218182751993" style="zoom:80%;" />
+
+
 
 
 
 **Bloc 상태관리 사용한 데이터 전달 구조**
 
-![img](..\images\2023-01-07-(flutter)Study_Week6\image.png)
+<img src="..\images\2023-01-07-(flutter)Study_Week6\image.png" alt="image-20221218182751993" style="zoom:80%;" />
 
 
 
